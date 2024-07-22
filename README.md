@@ -1,7 +1,7 @@
 ![background](https://github.com/musman-js/musman-js/assets/142093838/3aca18ca-3f5c-4f3a-a816-31fdb44367dc)
 
 
-<h2 align = "center">A PASSIONATE FRONTEND DEVELOPER!</h2>
+<h2 align = "center">A PASSIONATE FLUTTER DEVELOPER!</h2>
 <p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces.</p>
 <p>I am also currently expanding my skill set to include mobile app development, particularly focusing on Flutter. Recognizing the growing demand for cross-platform solutions,By delving into Flutter, I aim to broaden my expertise and offer comprehensive solutions across both web and mobile platforms.</p>
 <br>
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React, Flutter** <br>
 
-- 💬 Ask me about **DART, JAVASCRIPT** <br>
+- 💬 Ask me about **Dart, JavaScript** <br>
 
 - 📫 How to reach me **usman2037966@gmail.com**
 
-- 👨‍💻 All of my projects are available at [musmanjs.web.app](musmanjs.web.app)
+- 👨‍💻 All of my projects are available at [muhammad-usman08.vercel.app](muhammad-usman08.vercel.app)
 
 <br>
 
