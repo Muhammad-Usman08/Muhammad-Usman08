@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **usman2037966@gmail.com**
 
-- 👨‍💻 All of my projects are available at [muhammad-usman08.vercel.app](musmanjs.web.app)
-
+- 👨‍💻 All of my projects are available at [muhammad-usman08.vercel.app](https://muhammad-usman08.vercel.app/)
 <br>
 
 <h3 align="left">📫 Connect with me on 🔗        :</h3>
