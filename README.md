@@ -2,8 +2,9 @@
 
 
 <h2 align = "center">A PASSIONATE FLUTTER DEVELOPER!</h2>
-<p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces.</p>
-<p>I am also currently expanding my skill set to include mobile app development, particularly focusing on Flutter. Recognizing the growing demand for cross-platform solutions,By delving into Flutter, I aim to broaden my expertise and offer comprehensive solutions across both web and mobile platforms.</p>
+<p>Hello fellow coders and tech enthusiasts! I am a passionate Flutter developer with a deep love for programming. On my GitHub, you'll find a variety of projects, including mobile apps and website code. I enjoy crafting beautiful and responsive user interfaces and am always exploring new technologies to expand my skill set.</p>
+<p>I am also a frontend developer and completed my course from Jawaan Pakistan. During this course, I gained proficiency in HTML, CSS, JavaScript, React, version control systems, and various frameworks. These skills have enabled me to create dynamic and responsive web applications, ensuring an excellent user experience.</p>
+<p>Feel free to follow and collaborate with me! I'm always open to connecting with fellow developers and enthusiasts. Let's create something amazing together! </p>
 <br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=musman-js&label=Profile%20views&color=0e75b6&style=flat" alt="musman-js" style="margin-top: -30px; margin-bottom: 20px;"  width ="130px" heigth = "140px"/> </p>
