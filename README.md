@@ -44,7 +44,7 @@
 <p  align ="left">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
         <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css,js" />
-        <img src="https://skillicons.dev/icons?i=dart,react,flutter,firebase" />
+        <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase" />
      
     
 </p>
