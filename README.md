@@ -50,8 +50,11 @@
 <p  align ="left">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
         <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css,js" />
+        <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/>
-        <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase,postman,figma,androidstudio" />
+        <img src="https://skillicons.dev/icons?i=postman,figma,androidstudio" />
+ 
+	
      
     
 </p>
