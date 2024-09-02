@@ -22,16 +22,22 @@
 
 <h3 align="left">📫 Connect with me on 🔗        :</h3>
      <p align="left">
-        <a href="https://www.linkedin.com/in/muhammad-usman-772296294/" target="_blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" alt="linkedin" /></a>
-        <a href="https://www.facebook.com/profile.php?id=100063423567314" target="_blank" style="padding:8px"><img align="center" style="margin:8px"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" alt="twitter icon" /></a>
-        <a href="https://www.instagram.com/usman.___here/" target="_blank" style="padding:8px"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramicon" height="40" width="50" /></a>
-	<a href="https://www.hackerrank.com/profile/usmangamingyt671" target="_blank" style="padding:8px"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
-               
-     
+       <a href="https://www.linkedin.com/in/muhammadusman08/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<a href="https://wa.me/923197344951/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100063423567314" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:usman2037966@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>     
 </p>
 
 
@@ -44,7 +50,8 @@
 <p  align ="left">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
         <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css,js" />
-        <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/>
+        <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase,postman,figma,androidstudio" />
      
     
 </p>
