@@ -47,7 +47,7 @@
 <h3 align="left">
         Languages and Tools ⚙️🔧 : </h3>
     <br>
-<p  align ="left">
+<p  align ="center">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
         <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css,js" />
         <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase" />
