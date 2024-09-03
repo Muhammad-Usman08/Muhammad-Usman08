@@ -11,9 +11,9 @@
 
 <img src="https://github.com/musman-js/musman-js/assets/142093838/1306f38b-a74a-4a5d-a3a9-016c0d762c6f" alt="coding" width="350" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
 
-- 🌱 I’m currently learning **React, Flutter** <br>
+- 🌱 I’m currently learning **Getx,Stack** <br>
 
-- 💬 Ask me about **Dart, JavaScript** <br>
+- 💬 Ask me about **Dart,Flutter** <br>
 
 - 📫 How to reach me **usman2037966@gmail.com**
 
@@ -49,22 +49,20 @@
     <br>
 <p  align ="center">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
-        <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css,js" />
-        <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase" />
+	<img src="https://skillicons.dev/icons?i=github,vscode,tailwindcss,css,js" />
+	<img src="https://skillicons.dev/icons?i=react,vite,dart,flutter,firebase" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/>
-        <img src="https://skillicons.dev/icons?i=postman,figma,androidstudio" />
- 
-	
-     
-    
+	<img src="https://skillicons.dev/icons?i=postman,vercel,svg" />
+	<img src="https://skillicons.dev/icons?i=figma,androidstudio" />
+	 
 </p>
  <hr>
     
  <h3 align="left"> Plans of Learning 📚✨:</h3>
  <br>   
-<p align ="left">
-	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux" />
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="images">
-        <img src="https://skillicons.dev/icons?i=django" alt="images">
+<p align ="center">
+	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux,materialui" />
+        <img src="https://skillicons.dev/icons?i=mongodb,c,cpp,cs,yarn,npm" alt="images">
+        <img src="https://skillicons.dev/icons?i=django,py,kotlin,laravel,mysql" alt="images">
 </p>
 <hr>
