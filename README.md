@@ -59,10 +59,18 @@
  <hr>
     
  <h3 align="left"> Plans of Learning 📚✨:</h3>
- <br>   
-<p align ="center">
-	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux,materialui" />
-        <img src="https://skillicons.dev/icons?i=mongodb,c,cpp,cs,yarn,npm" alt="images">
-        <img src="https://skillicons.dev/icons?i=django,py,kotlin,laravel,mysql" alt="images">
+ <br>  
+ <p  align ="center">
+	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux" />
+	<img src="https://skillicons.dev/icons?i=materialui,mongodb,c,cpp,cs" />
+	<img src="https://skillicons.dev/icons?i=yarn,npm,py,django,kotlin" />
+	<img src="https://skillicons.dev/icons?i=laravel,mysql" />
+	 
 </p>
+<!-- <p align ="center">
+	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux" />
+        <img src="https://skillicons.dev/icons?i=,redux,materialui,mongodb,c" alt="images">
+        <img src="https://skillicons.dev/icons?i=,cpp,cs,yarn,npm,django" alt="images">
+        <img src="https://skillicons.dev/icons?i=py,kotlin,laravel,mysql" alt="images">
+</p> -->
 <hr>
