@@ -11,7 +11,7 @@
 
 <img src="https://github.com/musman-js/musman-js/assets/142093838/1306f38b-a74a-4a5d-a3a9-016c0d762c6f" alt="coding" width="350" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
 
-- 🌱 I’m currently learning **Getx,Stack** <br>
+- 🌱 I’m currently learning **Getx,Stacked** <br>
 
 - 💬 Ask me about **Dart,Flutter** <br>
 
@@ -53,9 +53,10 @@
 	<img src="https://skillicons.dev/icons?i=react,vite,dart,flutter,firebase" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/>
 	<img src="https://skillicons.dev/icons?i=postman,vercel,svg" />
-	<img src="https://skillicons.dev/icons?i=figma,androidstudio" />
+	<img src="https://skillicons.dev/icons?i=figma,androidstudio,nodejs,express,npm" />
         <a href="https://pub.dev/packages/get" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
-		<img src="https://github.com/user-attachments/assets/04569ff3-38bd-405f-8a16-19d4f0b12e08" width="50px" />
+	<img src="https://github.com/user-attachments/assets/04569ff3-38bd-405f-8a16-19d4f0b12e08" width="50px" />
+        <img src="https://github.com/user-attachments/assets/2fca99b9-9e87-42b1-a6de-b918599496ea" width="45px" />
 
 	 
 </p>
@@ -64,9 +65,9 @@
  <h3 align="left"> Plans of Learning 📚✨:</h3>
  <br>  
  <p  align ="center">
-	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux" />
+	<img src="https://skillicons.dev/icons?i=nextjs,ts,redux" />
 	<img src="https://skillicons.dev/icons?i=materialui,mongodb,c,cpp,cs" />
-	<img src="https://skillicons.dev/icons?i=yarn,npm,py,django,kotlin" />
+	<img src="https://skillicons.dev/icons?i=yarn,py,django,kotlin" />
 	<img src="https://skillicons.dev/icons?i=laravel,mysql" />
 	 
 </p>
