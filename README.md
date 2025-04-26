@@ -76,4 +76,9 @@
         <img src="https://skillicons.dev/icons?i=,cpp,cs,yarn,npm,django" alt="images">
         <img src="https://skillicons.dev/icons?i=py,kotlin,laravel,mysql" alt="images">
 </p> -->
+
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-usman08&show_icons=true&locale=en&layout=compact" alt="muhammad-usman08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-usman08&show_icons=true&locale=en" alt="muhammad-usman08" /></p>
+
 <hr>
